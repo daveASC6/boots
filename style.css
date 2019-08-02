@@ -1,0 +1,33 @@
+
+body{
+ background: url("https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif") no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+.buttonload {
+    display:flex;
+    align-items: center;
+    background-color: transparent; /* Green background */
+    border: none; /* Remove borders */
+    color: whitesmoke; /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 20px; /* Set a font size */
+
+    
+  }
+
+.card-body{
+    background-color: white;
+}
+
+.card{
+    margin: 20px
+}
+
+.crd{
+    display: flex;
+    justify-content: center;
+}
